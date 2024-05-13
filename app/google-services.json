@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917989122812",
+    "project_id": "oportunidad2-e7d80",
+    "storage_bucket": "oportunidad2-e7d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917989122812:android:daf33ca3b91bf0b7fe2d79",
+        "android_client_info": {
+          "package_name": "mx.edu.itesca.examen2da"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD7Dt8kwlO-0ocB_qdwsC50nDouH5zy90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
